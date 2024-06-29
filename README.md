@@ -1,6 +1,6 @@
 ## Hi, I'm Tanner Shimanek
 
-- 🖥️ I've been doing web development for a little of 5 years
+- 🖥️ I've been doing web development for a little over 5 years
 - 🔭 I’m currently working on developer blog to teach others what I learn
 - 🌱 I’m currently learning Kubernetes
 - 😄 Connect with me on [linkedin](https://www.linkedin.com/in/tshimanek/)
