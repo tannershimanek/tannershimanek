@@ -2,7 +2,7 @@
 
 - 🖥️ I've been doing web development for a little over 5 years
 - 🔭 I’m currently working on developer blog to teach others what I learn
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning Kubernetes and cloud architecture
 - 😄 Connect with me on [linkedin](https://www.linkedin.com/in/tshimanek/)
 <!--
 **tannershimanek/tannershimanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
